@@ -17,7 +17,7 @@ body {
 .game-image {
     width: 800px;
     height: 600px;
-    background: url('../screenshot.png') no-repeat center center;
+    background: url('screenshot.png') no-repeat center center;
     margin: 0 auto 20px;
 }
 
